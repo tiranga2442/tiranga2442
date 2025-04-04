@@ -1,4 +1,14 @@
-## Hi there 👋
+<form>
+    <input type="text" name="fullname" placeholder="Full Name" required>
+    <input type="email" name="email" placeholder="Email" required>
+    <input type="tel" name="phone" placeholder="Phone Number" required>
+    <button type="submit">Register</button>
+</form><form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <input type="text" name="fullname" placeholder="Full Name" required>
+    <input type="email" name="email" placeholder="Email" required>
+    <input type="tel" name="phone" placeholder="Phone Number" required>
+    <button type="submit">Register</button>
+</form>
 
 <!--
 **tiranga2442/tiranga2442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
